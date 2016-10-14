@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListView_Costum_images</string>
+
+    <string-array name="Names">
+        <item>Salim</item>
+        <item>Ali</item>
+        <item>Said</item>
+        <item>Mohammed</item>
+        <item>Feras</item>
+
+
+    </string-array>
+</resources>
